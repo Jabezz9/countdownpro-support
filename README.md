@@ -22,6 +22,6 @@ Welcome to the official support page for Countdown Pro.
 - **How do I import from my device calendar?**  
   Upgrade to Plus. Tap the Import from calendar button, select events, and they’ll be added automatically.
 
-## Contact
+## Contact & Feedback
 
-For questions or bug reports, please open an issue here or email [YOUR EMAIL].
+For bug reports, feedback, or feature requests, feel free to open an issue on this page.
