@@ -24,4 +24,5 @@ Welcome to the official support page for Countdown Pro.
 
 ## Contact & Feedback
 
-For bug reports, feedback, or feature requests, feel free to open an issue on this page.
+For bug reports, feedback, or feature requests, please [open an issue here](https://github.com/Jabezz9/countdownpro-support/issues).
+
