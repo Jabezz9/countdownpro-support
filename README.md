@@ -10,6 +10,9 @@ Welcome to the official support page for Countdown Pro.
 - **How do I view Future and Past events?**  
   Use the tabs in the app to switch between upcoming and past countdowns.
 
+- **How do I delete a countdown?**  
+  Slide on any countdown to the left to see the delete button. Tap that button to delete it.
+
 - **How do I see a countdown on the calendar timeline?**  
   Slide on any countdown to the left to see the calendar button. Tap that button to see it displayed on a calendar timeline.
 
